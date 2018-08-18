@@ -33,6 +33,7 @@
         android:textColorHint="#fff"
         android:textSize="16dp"
         android:textColor="#fff"
+        android:drawableLeft="@drawable/ic_action_person"
         />
 
     <EditText
@@ -51,7 +52,9 @@
         android:text=""
         android:textColor="#fff"
         android:textColorHint="#fff"
-        android:textSize="16dp" />
+        android:textSize="16dp"
+        android:drawableLeft="@drawable/ic_action_pass"
+        />
 
 
 </RelativeLayout>
