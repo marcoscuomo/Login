@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Login</string>
+    <string name="login">Login</string>
+    <string name="senha">Senha</string>
+    <string name="btn_login">Login</string>
+    <string name="criar_conta">Ainda não tem cadastro? Crie uma conta agora!</string>
+    <string name="logo_do_app">Logo do app</string>
 </resources>
